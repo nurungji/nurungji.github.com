@@ -1,4 +1,4 @@
-repository: tomjohnson1492/documentation-theme-jekyll
+repository: nurungji/nurungji.github.com
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -31,7 +31,7 @@ exclude:
 
 feedback_subject_line: Jekyll documentation theme
 
-feedback_email: tomjohnson1492@gmail.com
+feedback_email: nick.park1860@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
