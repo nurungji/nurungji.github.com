@@ -1,4 +1,12 @@
+---
+title:  "title"
+categories: jekyll update
+permalink: test-post-from-last-year.html
+tags: [news]
+---
+
 ## 익스트림 프로그래밍이란
+
 
 2014년 초, 런던, Skillsmatter HQ에서 스크럼 마스터 트레이닝 
 "- XP를 하시나요? 안하나요? 그럼 스크럼이 당신을 도와줄 수 없을 거에요. 일단 먼저 XP를 배우세요."
